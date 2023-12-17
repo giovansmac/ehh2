@@ -1,0 +1,5 @@
+$ tsc && gulp
+[[90m00:33:36[39m] Requiring external module ts-node/register
+[[90m00:33:39[39m] Using gulpfile ~\Desktop\experimentos\flowise\Flowise\packages\components\gulpfile.ts
+[[90m00:33:39[39m] Starting 'default'...
+[[90m00:33:40[39m] Finished 'default' after 364 ms

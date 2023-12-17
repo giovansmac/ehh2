@@ -1,0 +1,379 @@
+2023-12-11 18:57:53 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 18:58:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:01:12 [ERROR]: [server]: Error: 400 5 is greater than the maximum of 1 - 'top_p'
+Error: 400 5 is greater than the maximum of 1 - 'top_p'
+    at APIError.generate (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\error.js:43:20)
+    at OpenAI.makeStatusError (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\core.js:251:33)
+    at OpenAI.makeRequest (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\core.js:290:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chat_models\openai.cjs:632:29
+    at async RetryOperation._fn (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\p-retry\index.js:50:12)
+2023-12-11 19:02:54 [ERROR]: Error: No vectors provided
+Error: Error: No vectors provided
+    at Redis_VectorStores.upsert (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\Redis.js:67:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:232:17)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:02:54 [ERROR]: [server]: Error: Error: Error: No vectors provided
+Error: Error: Error: No vectors provided
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:03:23 [ERROR]: Error: No vectors provided
+Error: Error: No vectors provided
+    at Redis_VectorStores.upsert (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\Redis.js:67:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:232:17)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:03:23 [ERROR]: [server]: Error: Error: Error: No vectors provided
+Error: Error: Error: No vectors provided
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:07:10 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:29 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:36 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:40 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:08:09 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:09:14 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:10:07 [ERROR]: ERR max number of clients reached
+2023-12-11 19:10:07 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:13:21 [ERROR]: ERR max number of clients reached
+2023-12-11 19:13:21 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:15:30 [ERROR]: ERR max number of clients reached
+2023-12-11 19:15:30 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:22:23 [ERROR]: ERR max number of clients reached
+2023-12-11 19:22:23 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:22:45 [ERROR]: ERR max number of clients reached
+2023-12-11 19:22:45 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:23:01 [ERROR]: ERR max number of clients reached
+2023-12-11 19:23:01 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:32:59 [ERROR]: OpenAI or Azure OpenAI API key not found
+Error: OpenAI or Azure OpenAI API key not found
+    at new OpenAIEmbeddings (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\embeddings\openai.cjs:106:19)
+    at OpenAIEmbedding_Embeddings.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\embeddings\OpenAIEmbedding\OpenAIEmbedding.js:68:23)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:32:59 [ERROR]: [server]: Error: Error: OpenAI or Azure OpenAI API key not found
+Error: Error: OpenAI or Azure OpenAI API key not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:37:08 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:37:40 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:37:43 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:39:03 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:40:06 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:41:31 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 20:20:55 [ERROR]: OpenAI or Azure OpenAI API key not found
+Error: OpenAI or Azure OpenAI API key not found
+    at new OpenAIEmbeddings (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\embeddings\openai.cjs:106:19)
+    at OpenAIEmbedding_Embeddings.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\embeddings\OpenAIEmbedding\OpenAIEmbedding.js:68:23)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 20:20:55 [ERROR]: [server]: Error: Error: OpenAI or Azure OpenAI API key not found
+Error: Error: OpenAI or Azure OpenAI API key not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-12 21:10:34 [ERROR]: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+    at CustomTool_Tools.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\tools\CustomTool\CustomTool.js:68:19)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-12 21:10:34 [ERROR]: [server]: Error: Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+Error: Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 00:45:15 [ERROR]: WRONGPASS invalid username-password pair
+2023-12-15 00:45:15 [ERROR]: [server]: Error: Error: WRONGPASS invalid username-password pair
+Error: Error: WRONGPASS invalid username-password pair
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 00:47:36 [ERROR]: WRONGPASS invalid username-password pair
+2023-12-15 00:47:36 [ERROR]: [server]: Error: Error: WRONGPASS invalid username-password pair
+Error: Error: WRONGPASS invalid username-password pair
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 01:22:36 [ERROR]: [server]: Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+InsufficientQuotaError: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+    at Object.defaultFailedAttemptHandler [as onFailedAttempt] (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\util\async_caller.cjs:42:21)
+    at RetryOperation._fn (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\p-retry\index.js:67:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-15 01:23:16 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 01:23:32 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 01:24:11 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:43)
+    at RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 01:24:29 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 02:45:51 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:45:51 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:53:36 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:53:36 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 17:58:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:43)
+    at RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:00:37 [ERROR]: [server]: Error: Cannot read properties of undefined (reading 'replaceAll')
+TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at unEscapeSpecialChars (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\utils.js:28:16)
+    at vectorStore.similaritySearchVectorWithScore (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\RedisSearchBase.js:151:85)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RedisVectorStore.similaritySearch (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\vectorstores\base.cjs:107:25)
+    at async VectorStoreRetriever.getRelevantDocuments (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\schema\retriever.cjs:69:29)
+    at async RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:22)
+    at async RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:00:58 [ERROR]: [server]: Error: Cannot read properties of undefined (reading 'replaceAll')
+TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at unEscapeSpecialChars (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\utils.js:28:16)
+    at vectorStore.similaritySearchVectorWithScore (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\RedisSearchBase.js:151:85)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RedisVectorStore.similaritySearch (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\vectorstores\base.cjs:107:25)
+    at async VectorStoreRetriever.getRelevantDocuments (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\schema\retriever.cjs:69:29)
+    at async RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:22)
+    at async RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:10:25 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:10:25 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:10:56 [ERROR]: [server]: Error: Received tool input did not match expected schema
+Error: Received tool input did not match expected schema
+    at DynamicStructuredTool.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\tools\base.cjs:67:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:221:27
+    at async Promise.all (index 0)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:213:30)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async ConversationalAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:84:24)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1282:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:12:37 [ERROR]: [server]: Error: Received tool input did not match expected schema
+Error: Received tool input did not match expected schema
+    at DynamicStructuredTool.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\tools\base.cjs:67:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:221:27
+    at async Promise.all (index 0)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:213:30)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async ConversationalAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:84:24)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1282:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13

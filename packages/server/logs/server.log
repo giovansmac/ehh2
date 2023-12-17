@@ -1,0 +1,937 @@
+2023-11-26 00:49:05 [INFO]: Starting Flowise...
+2023-11-26 00:49:05 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-11-26 00:49:05 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-11-26 00:53:45 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-11-26 01:07:07 [INFO]: ⬆️ POST /api/v1/tools
+2023-11-26 01:07:23 [INFO]: 🖊 PUT /api/v1/tools/3b8097e1-a97e-45ad-af29-5416d0438c8e
+2023-11-26 01:13:14 [INFO]: 🖊 PUT /api/v1/credentials/fb819333-df21-4987-b9b7-b02d2dd327b3
+2023-11-26 01:16:43 [INFO]: 🖊 PUT /api/v1/assistants/9b7a9d99-623f-471d-ad33-7a4efd44e8df
+2023-11-26 01:22:34 [INFO]: ⬆️ POST /api/v1/node-config
+2023-11-26 01:23:08 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-11-26 01:28:35 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-11-26 01:29:40 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-11-26 01:29:42 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-11-26 01:29:59 [INFO]: 🖊 PUT /api/v1/chatflows/b48a01ed-8754-4838-9d6f-90f4110a8efa
+2023-11-26 02:10:04 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-11-26 16:15:33 [INFO]: Starting Flowise...
+2023-11-26 16:15:33 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-11-26 16:15:33 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-11 18:29:03 [INFO]: Starting Flowise...
+2023-12-11 18:29:03 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-12-11 18:29:03 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-11 18:29:29 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-11 18:30:25 [INFO]: ⬆️ POST /api/v1/credentials
+2023-12-11 18:31:35 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-11 18:33:05 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-11 18:41:03 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-11 18:41:12 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:42:35 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:44:02 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:44:04 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:44:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:44:15 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 18:44:34 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:47:56 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:49:36 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:49:36 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:53:29 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:53:29 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:55:14 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:55:14 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:55:23 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:55:23 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:55:27 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-11 18:55:42 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:55:42 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:55:44 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:57:22 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:57:22 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:57:26 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:57:52 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:57:52 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 18:57:53 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 18:58:04 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:58:04 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 18:58:08 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:58:13 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 18:58:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 18:58:16 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 18:58:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 18:59:03 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:00:13 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:00:13 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:00:16 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:00:23 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:00:46 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:00:46 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:01:04 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:01:11 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:01:12 [ERROR]: [server]: Error: 400 5 is greater than the maximum of 1 - 'top_p'
+Error: 400 5 is greater than the maximum of 1 - 'top_p'
+    at APIError.generate (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\error.js:43:20)
+    at OpenAI.makeStatusError (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\core.js:251:33)
+    at OpenAI.makeRequest (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\openai\core.js:290:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chat_models\openai.cjs:632:29
+    at async RetryOperation._fn (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\p-retry\index.js:50:12)
+2023-12-11 19:02:42 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:02:42 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:02:48 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:02:54 [ERROR]: Error: No vectors provided
+Error: Error: No vectors provided
+    at Redis_VectorStores.upsert (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\Redis.js:67:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:232:17)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:02:54 [ERROR]: [server]: Error: Error: Error: No vectors provided
+Error: Error: Error: No vectors provided
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:03:09 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:03:09 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:03:18 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:03:23 [ERROR]: Error: No vectors provided
+Error: Error: No vectors provided
+    at Redis_VectorStores.upsert (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\Redis.js:67:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:232:17)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:03:23 [ERROR]: [server]: Error: Error: Error: No vectors provided
+Error: Error: Error: No vectors provided
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:938:13
+2023-12-11 19:03:32 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:03:32 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:03:35 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:04:23 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:04:23 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:04:24 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:04:24 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:04:27 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:06:07 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:06:07 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:06:10 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:06:27 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=9d23c3f6-c715-4d63-80be-3e9ac5836203&chatType=INTERNAL
+2023-12-11 19:06:27 [INFO]: Clearing Redis memory session chat
+2023-12-11 19:06:27 [INFO]: Successfully cleared Redis memory session chat
+2023-12-11 19:06:34 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:06:51 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:07:07 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:07:07 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:07:09 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:07:10 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:13 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:07:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:28 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:07:29 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:35 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:07:36 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:39 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:07:40 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:07:42 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:07:42 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:07:48 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:08:08 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:08:09 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:09:14 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:09:14 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at ConversationalRetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\conversational_retrieval_chain.cjs:169:43)
+    at ConversationalRetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ConversationalRetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\ConversationalRetrievalQAChain\ConversationalRetrievalQAChain.js:164:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:09:21 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:09:21 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:09:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:10:07 [ERROR]: ERR max number of clients reached
+2023-12-11 19:10:07 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:13:00 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:13:00 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:13:03 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:13:21 [ERROR]: ERR max number of clients reached
+2023-12-11 19:13:21 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:15:00 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:15:00 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:15:02 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:15:30 [ERROR]: ERR max number of clients reached
+2023-12-11 19:15:30 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:21:50 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:21:50 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:21:53 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:22:01 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:22:23 [ERROR]: ERR max number of clients reached
+2023-12-11 19:22:23 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:22:33 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:22:45 [ERROR]: ERR max number of clients reached
+2023-12-11 19:22:45 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:23:01 [ERROR]: ERR max number of clients reached
+2023-12-11 19:23:01 [ERROR]: [server]: Error: Error: ERR max number of clients reached
+Error: Error: ERR max number of clients reached
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:25:41 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:25:41 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:25:54 [INFO]: Shutting down Flowise...
+2023-12-11 19:26:08 [INFO]: Starting Flowise...
+2023-12-11 19:26:09 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-12-11 19:26:09 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-11 19:26:57 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:26:57 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:27:00 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:27:39 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:28:23 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:28:55 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:30:04 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-11 19:32:54 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-11 19:32:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-11 19:32:59 [ERROR]: OpenAI or Azure OpenAI API key not found
+Error: OpenAI or Azure OpenAI API key not found
+    at new OpenAIEmbeddings (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\embeddings\openai.cjs:106:19)
+    at OpenAIEmbedding_Embeddings.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\embeddings\OpenAIEmbedding\OpenAIEmbedding.js:68:23)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:32:59 [ERROR]: [server]: Error: Error: OpenAI or Azure OpenAI API key not found
+Error: Error: OpenAI or Azure OpenAI API key not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 19:33:43 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:33:43 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:33:47 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:33:50 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=c8efa157-018e-4874-8794-799b83d743aa&chatType=INTERNAL
+2023-12-11 19:33:50 [INFO]: Clearing Redis memory session chat
+2023-12-11 19:33:51 [INFO]: Successfully cleared Redis memory session chat
+2023-12-11 19:33:57 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:36:44 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:36:44 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:36:49 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:37:07 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:37:08 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:37:14 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:37:14 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:37:17 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:37:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:37:40 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:37:40 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:37:43 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:37:43 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:39:03 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:39:03 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:39:45 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:39:45 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:39:48 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:40:06 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:40:06 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:40:56 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:40:56 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:41:10 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:41:30 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:41:31 [ERROR]: [server]: Error: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+InputFormatError: Error: Field "chat_history" in prompt uses a MessagesPlaceholder, which expects an array of BaseMessages as an input value. Received: 
+    at MessagesPlaceholder.validateInputOrThrow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:121:27)
+    at MessagesPlaceholder.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:128:14)
+    at ChatPromptTemplate.formatMessages (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:409:53)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async ChatPromptTemplate.formatPromptValue (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\prompts\chat.cjs:172:32)
+    at async OpenAIAgent.plan (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\openai\index.cjs:153:29)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:167:26)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async AgentExecutor.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:69:30)
+    at async OpenAIFunctionAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\OpenAIFunctionAgent\OpenAIFunctionAgent.js:76:28)
+2023-12-11 19:44:20 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:44:20 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:44:23 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:44:54 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:45:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:45:37 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:45:37 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 19:45:40 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=c5592242-5187-4bc1-bcac-52c3f4633e87&chatType=INTERNAL
+2023-12-11 19:45:43 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:46:04 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 19:46:04 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:46:13 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 19:46:31 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:20:55 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-11 20:20:55 [ERROR]: OpenAI or Azure OpenAI API key not found
+Error: OpenAI or Azure OpenAI API key not found
+    at new OpenAIEmbeddings (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\embeddings\openai.cjs:106:19)
+    at OpenAIEmbedding_Embeddings.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\embeddings\OpenAIEmbedding\OpenAIEmbedding.js:68:23)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 20:20:55 [ERROR]: [server]: Error: Error: OpenAI or Azure OpenAI API key not found
+Error: Error: OpenAI or Azure OpenAI API key not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-11 20:21:12 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:21:12 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 20:21:16 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:21:35 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 20:22:01 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:28:31 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:28:31 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 20:28:34 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:41:02 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:41:02 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-11 20:41:09 [INFO]: ⬆️ POST /api/v1/vector/internal-upsert/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:42:42 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:43:00 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-11 20:43:01 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=fac884ba-f992-4fe0-85cb-778d4a81ed73&chatType=INTERNAL
+2023-12-11 20:43:05 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:43:30 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:43:49 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:44:07 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:44:30 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=ac69e5ee-8037-47a3-8867-29c207678c59&chatType=INTERNAL
+2023-12-11 20:44:39 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=fac884ba-f992-4fe0-85cb-778d4a81ed73&chatType=INTERNAL
+2023-12-11 20:44:45 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=6c9e84ad-c61e-43f3-a1f1-de8d2881f9b8&chatType=INTERNAL
+2023-12-11 20:45:27 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-11 20:50:33 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:50:40 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:50:57 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:51:30 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:51:38 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=d39c7cd6-a00c-492b-a516-0c0f91f57663&chatType=INTERNAL
+2023-12-11 20:51:52 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-11 20:51:59 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=c76f5341-23a2-4976-920b-0365085dba6e&chatType=INTERNAL
+2023-12-12 20:13:40 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-12 20:13:40 [INFO]: ⬆️ POST /api/v1/node-load-method/openAIAssistant
+2023-12-12 20:17:47 [INFO]: ⬆️ POST /api/v1/tools
+2023-12-12 20:18:19 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-12 21:09:59 [INFO]: 🖊 PUT /api/v1/chatflows/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:10:29 [INFO]: 🖊 PUT /api/v1/chatflows/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:10:33 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:10:34 [ERROR]: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+    at CustomTool_Tools.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\tools\CustomTool\CustomTool.js:68:19)
+    at async buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:54)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-12 21:10:34 [ERROR]: [server]: Error: Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+Error: Error: Error: Tool 3607b477-6581-4fe9-a086-5168247be339 not found
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-12 21:10:43 [INFO]: 🖊 PUT /api/v1/chatflows/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:10:47 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:10:47 [INFO]: [server]: Chatflow 1778158a-8f00-4d29-90ec-0c4522ba7550 added into ChatflowPool
+2023-12-12 21:10:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:12:26 [INFO]: 🖊 PUT /api/v1/chatflows/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:12:26 [INFO]: [server]: Chatflow 1778158a-8f00-4d29-90ec-0c4522ba7550 updated inSync=false in ChatflowPool
+2023-12-12 21:12:31 [INFO]: ❌ DELETE /api/v1/chatmessage/1778158a-8f00-4d29-90ec-0c4522ba7550?chatId=f9756bfa-3c41-404f-845f-68ff7f73d172&chatType=INTERNAL
+2023-12-12 21:12:36 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-12 21:12:36 [INFO]: [server]: Chatflow 1778158a-8f00-4d29-90ec-0c4522ba7550 added into ChatflowPool
+2023-12-12 21:13:04 [INFO]: ⬆️ POST /api/v1/internal-prediction/1778158a-8f00-4d29-90ec-0c4522ba7550
+2023-12-13 02:18:42 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:18:43 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:20:21 [INFO]: 🖊 PUT /api/v1/tools/33df82b4-feea-4918-aa44-1bab37ae40a4
+2023-12-13 02:20:47 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-13 02:28:56 [INFO]: 🖊 PUT /api/v1/tools/33df82b4-feea-4918-aa44-1bab37ae40a4
+2023-12-13 02:29:23 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:29:23 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:30:17 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-13 02:30:34 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-13 02:33:48 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:33:48 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:33:53 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:33:54 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-13 02:34:12 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:36:22 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:36:22 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:36:28 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=62c940a3-bc4d-463a-bf96-5aacb0c344fb&chatType=INTERNAL
+2023-12-13 02:36:32 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:36:32 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-13 02:36:47 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:38:11 [INFO]: ⬆️ POST /api/v1/node-load-method/customTool
+2023-12-13 02:38:38 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:38:38 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:38:41 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=58000b3f-947c-48da-9e7b-8396771c6331&chatType=INTERNAL
+2023-12-13 02:38:44 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:38:45 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-13 02:39:05 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:40:00 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:40:00 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-13 02:40:03 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=f6c5c1c3-1d09-4cb1-8485-c472b8a132e2&chatType=INTERNAL
+2023-12-13 02:40:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:40:09 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-13 02:40:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:41:47 [INFO]: 🖊 PUT /api/v1/credentials/cec8a35d-f905-499f-af10-298e1a8f4c73
+2023-12-13 02:43:09 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=e9835c55-ca53-4f60-af8e-0e2b8cf448aa&chatType=INTERNAL
+2023-12-13 02:43:16 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:43:38 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 02:44:16 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-13 03:00:48 [INFO]: Shutting down Flowise...
+2023-12-15 00:22:35 [INFO]: Starting Flowise...
+2023-12-15 00:22:36 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-12-15 00:22:36 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-15 00:44:07 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:44:13 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=05865040-502b-46df-ad20-a45611c93959&chatType=INTERNAL
+2023-12-15 00:45:09 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:45:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:45:15 [ERROR]: WRONGPASS invalid username-password pair
+2023-12-15 00:45:15 [ERROR]: [server]: Error: Error: WRONGPASS invalid username-password pair
+Error: Error: WRONGPASS invalid username-password pair
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 00:45:33 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:45:52 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:46:31 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:47:35 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:47:36 [ERROR]: WRONGPASS invalid username-password pair
+2023-12-15 00:47:36 [ERROR]: [server]: Error: Error: WRONGPASS invalid username-password pair
+Error: Error: WRONGPASS invalid username-password pair
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 00:49:12 [INFO]: 🖊 PUT /api/v1/credentials/cec8a35d-f905-499f-af10-298e1a8f4c73
+2023-12-15 00:49:26 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:49:27 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 00:49:50 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:51:05 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:51:57 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:52:47 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=8c8b907a-b250-4edb-ae2c-cb5c23ce4245&chatType=INTERNAL
+2023-12-15 00:52:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:54:05 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:56:12 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=5bc9d38a-83c6-479b-8374-bd2588edc145&chatType=INTERNAL
+2023-12-15 00:56:17 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:56:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:58:52 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:59:06 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=be08d1d6-833a-4ced-b5f6-9c82b01fba07&chatType=INTERNAL
+2023-12-15 00:59:36 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 00:59:36 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:01:26 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:01:26 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:01:29 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:01:30 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:02:12 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:02:41 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=93f919b9-36c2-46bc-b8e7-8610826f511a&chatType=INTERNAL
+2023-12-15 01:02:44 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:03:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:03:29 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:03:29 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:03:38 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:03:39 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:04:03 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:04:03 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:20:44 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 01:22:24 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:22:24 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:22:29 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=1c2379d1-8148-4405-a1b9-8e622913d904&chatType=INTERNAL
+2023-12-15 01:22:35 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:22:35 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:22:36 [ERROR]: [server]: Error: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+InsufficientQuotaError: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+    at Object.defaultFailedAttemptHandler [as onFailedAttempt] (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\util\async_caller.cjs:42:21)
+    at RetryOperation._fn (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\p-retry\index.js:67:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-12-15 01:23:10 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:23:11 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:23:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:23:16 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:23:16 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 01:23:32 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:23:32 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 01:23:46 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:23:46 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:24:04 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:24:04 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:24:10 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:24:11 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:24:11 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:43)
+    at RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 01:24:24 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:24:24 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:24:28 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:24:29 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:24:29 [ERROR]: [server]: Error: doc:perfil2: no such index
+2023-12-15 01:24:53 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:24:53 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 01:25:00 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:25:01 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 01:25:25 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:25:51 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:26:39 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:28:47 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:28:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:29:13 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:29:20 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:29:42 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:30:21 [INFO]: ❌ DELETE /api/v1/chatmessage/46482a14-20b8-4845-a180-3b887186e5bc?chatId=bd146b5b-b3c9-482e-a462-f169fe23c034&chatType=INTERNAL
+2023-12-15 01:30:46 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:31:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:31:14 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 01:31:14 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 02:07:34 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:07:34 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 02:10:19 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 02:13:18 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 02:27:51 [INFO]: ⬆️ POST /api/v1/node-load-method/openAIAssistant
+2023-12-15 02:42:02 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:42:02 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 02:45:42 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:45:42 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 02:45:50 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:45:51 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:45:51 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:53:36 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:53:36 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:53:36 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 02:54:15 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:54:15 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 02:54:18 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:54:19 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc added into ChatflowPool
+2023-12-15 02:54:48 [INFO]: ⬆️ POST /api/v1/internal-prediction/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 02:55:48 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 03:30:27 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 03:30:27 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 03:30:35 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 03:30:35 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 03:30:37 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 03:30:37 [INFO]: [server]: Chatflow 46482a14-20b8-4845-a180-3b887186e5bc updated inSync=false in ChatflowPool
+2023-12-15 03:39:22 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 03:39:29 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:39:31 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:40:02 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:40:05 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:40:56 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:40:59 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:42:05 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:42:08 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:43:13 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:43:16 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:43:34 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:43:37 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:44:11 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:44:14 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:44:21 [INFO]: 🖊 PUT /api/v1/chatflows/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:44:21 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 updated inSync=false in ChatflowPool
+2023-12-15 03:44:42 [INFO]: 🖊 PUT /api/v1/chatflows/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:44:42 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 updated inSync=false in ChatflowPool
+2023-12-15 03:44:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:45:02 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:45:23 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:45:25 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:46:03 [INFO]: 🖊 PUT /api/v1/chatflows/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:46:03 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 updated inSync=false in ChatflowPool
+2023-12-15 03:46:08 [INFO]: ❌ DELETE /api/v1/chatmessage/1430ca2a-e54a-4af9-ade0-b53a26c67502?chatId=840a2d5b-8f03-4434-abeb-6084de453f7a&chatType=INTERNAL
+2023-12-15 03:46:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:46:17 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:46:34 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:46:38 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 03:46:53 [INFO]: ⬆️ POST /api/v1/internal-prediction/1430ca2a-e54a-4af9-ade0-b53a26c67502
+2023-12-15 03:46:55 [INFO]: [server]: Chatflow 1430ca2a-e54a-4af9-ade0-b53a26c67502 added into ChatflowPool
+2023-12-15 16:06:13 [INFO]: Starting Flowise...
+2023-12-15 16:06:13 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-12-15 16:06:13 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-15 17:28:37 [INFO]: 🖊 PUT /api/v1/chatflows/46482a14-20b8-4845-a180-3b887186e5bc
+2023-12-15 17:54:15 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 17:54:18 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:54:31 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:54:31 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 17:54:50 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:04 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:04 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 17:58:07 [INFO]: ❌ DELETE /api/v1/chatmessage/853041a7-a1fe-494a-974c-7befab1c7572?chatId=11fe6e0d-f801-484e-89f9-4cf31ee672eb&chatType=INTERNAL
+2023-12-15 17:58:12 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:13 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 17:58:13 [ERROR]: [server]: Error: this.retriever.getRelevantDocuments is not a function
+TypeError: this.retriever.getRelevantDocuments is not a function
+    at RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:43)
+    at RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:113:24)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 17:58:21 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:21 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 17:58:26 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:27 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 17:58:42 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:58:56 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:59:29 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 17:59:51 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:00:07 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:00:23 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:00:23 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 18:00:30 [INFO]: ❌ DELETE /api/v1/chatmessage/853041a7-a1fe-494a-974c-7befab1c7572?chatId=284c1091-e2b4-4f4a-95f2-30a2d304c69e&chatType=INTERNAL
+2023-12-15 18:00:36 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:00:36 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 18:00:37 [ERROR]: [server]: Error: Cannot read properties of undefined (reading 'replaceAll')
+TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at unEscapeSpecialChars (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\utils.js:28:16)
+    at vectorStore.similaritySearchVectorWithScore (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\RedisSearchBase.js:151:85)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RedisVectorStore.similaritySearch (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\vectorstores\base.cjs:107:25)
+    at async VectorStoreRetriever.getRelevantDocuments (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\schema\retriever.cjs:69:29)
+    at async RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:22)
+    at async RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:00:58 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:00:58 [ERROR]: [server]: Error: Cannot read properties of undefined (reading 'replaceAll')
+TypeError: Cannot read properties of undefined (reading 'replaceAll')
+    at unEscapeSpecialChars (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\utils.js:28:16)
+    at vectorStore.similaritySearchVectorWithScore (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\vectorstores\Redis\RedisSearchBase.js:151:85)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async RedisVectorStore.similaritySearch (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\vectorstores\base.cjs:107:25)
+    at async VectorStoreRetriever.getRelevantDocuments (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain-core\dist\schema\retriever.cjs:69:29)
+    at async RetrievalQAChain._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\retrieval_qa.cjs:79:22)
+    at async RetrievalQAChain.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async RetrievalQAChain_Chains.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\chains\RetrievalQAChain\RetrievalQAChain.js:44:25)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1272:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:01:36 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:01:36 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 18:01:41 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:01:42 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 18:01:56 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:02:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:02:42 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:03:50 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 18:10:01 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:10:01 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 18:10:04 [INFO]: ❌ DELETE /api/v1/chatmessage/853041a7-a1fe-494a-974c-7befab1c7572?chatId=99084747-fe6c-4307-8c40-d2ff2d38adc6&chatType=INTERNAL
+2023-12-15 18:10:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:10:25 [ERROR]: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at ChatConversationalAgent.validateTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:46:19)
+    at ChatConversationalAgent.fromLLMAndTools (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\chat_convo\index.cjs:125:33)
+    at initializeAgentExecutorWithOptions (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\initialize.cjs:79:59)
+    at ConversationalAgent_Agents.init (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:68:80)
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:245:76)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:10:25 [ERROR]: [server]: Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+Error: Error: Got a tool  without a description. This agent requires descriptions for all tools.
+    at buildLangchain (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\utils\index.js:258:19)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1250:40)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:10:37 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:10:37 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 18:10:39 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:10:40 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 18:10:55 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:10:56 [ERROR]: [server]: Error: Received tool input did not match expected schema
+Error: Received tool input did not match expected schema
+    at DynamicStructuredTool.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\tools\base.cjs:67:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:221:27
+    at async Promise.all (index 0)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:213:30)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async ConversationalAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:84:24)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1282:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:12:14 [INFO]: 🖊 PUT /api/v1/chatflows/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:12:14 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 updated inSync=false in ChatflowPool
+2023-12-15 18:12:17 [INFO]: ❌ DELETE /api/v1/chatmessage/853041a7-a1fe-494a-974c-7befab1c7572?chatId=fd28b33f-b75b-4baa-9269-c0ebcced9399&chatType=INTERNAL
+2023-12-15 18:12:20 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:12:21 [INFO]: [server]: Chatflow 853041a7-a1fe-494a-974c-7befab1c7572 added into ChatflowPool
+2023-12-15 18:12:36 [INFO]: ⬆️ POST /api/v1/internal-prediction/853041a7-a1fe-494a-974c-7befab1c7572
+2023-12-15 18:12:37 [ERROR]: [server]: Error: Received tool input did not match expected schema
+Error: Received tool input did not match expected schema
+    at DynamicStructuredTool.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\tools\base.cjs:67:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:221:27
+    at async Promise.all (index 0)
+    at async AgentExecutor._call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\agents\executor.cjs:213:30)
+    at async AgentExecutor.call (C:\Users\pc\Desktop\experimentos\flowise\Flowise\node_modules\langchain\dist\chains\base.cjs:104:28)
+    at async ConversationalAgent_Agents.run (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\components\dist\nodes\agents\ConversationalAgent\ConversationalAgent.js:84:24)
+    at async App.buildChatflow (C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:1282:19)
+    at async C:\Users\pc\Desktop\experimentos\flowise\Flowise\packages\server\dist\index.js:949:13
+2023-12-15 18:20:11 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 18:22:52 [INFO]: 🖊 PUT /api/v1/chatflows/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:23:03 [INFO]: 🖊 PUT /api/v1/chatflows/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:23:09 [INFO]: 🖊 PUT /api/v1/chatflows/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:23:11 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:23:14 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:23:26 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:23:29 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:24:02 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:24:05 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:24:22 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:24:25 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:24:38 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:24:41 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:25:07 [INFO]: 🖊 PUT /api/v1/chatflows/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:25:07 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 updated inSync=false in ChatflowPool
+2023-12-15 18:25:10 [INFO]: ❌ DELETE /api/v1/chatmessage/101fa670-899c-4b94-b9da-e15cb5bb95c5?chatId=d24290f5-00d7-4937-8450-845d4a1f7d5e&chatType=INTERNAL
+2023-12-15 18:25:14 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:25:17 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:25:27 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:25:29 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:25:46 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:25:49 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:26:16 [INFO]: 🖊 PUT /api/v1/chatflows/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:26:16 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 updated inSync=false in ChatflowPool
+2023-12-15 18:26:20 [INFO]: ❌ DELETE /api/v1/chatmessage/101fa670-899c-4b94-b9da-e15cb5bb95c5?chatId=746d6ac0-b624-4727-80df-a323e408fb56&chatType=INTERNAL
+2023-12-15 18:26:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:26:27 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:26:38 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:26:41 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:27:06 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:27:08 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:27:30 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:27:32 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 18:28:03 [INFO]: ⬆️ POST /api/v1/internal-prediction/101fa670-899c-4b94-b9da-e15cb5bb95c5
+2023-12-15 18:28:05 [INFO]: [server]: Chatflow 101fa670-899c-4b94-b9da-e15cb5bb95c5 added into ChatflowPool
+2023-12-15 20:37:23 [INFO]: ⬆️ POST /api/v1/node-load-method/openAIAssistant
+2023-12-15 20:38:08 [INFO]: ⬆️ POST /api/v1/node-load-method/openAIAssistant
+2023-12-15 20:43:06 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 20:47:05 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:47:09 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:47:11 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-15 20:47:34 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:49:50 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:51:43 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:52:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 20:53:21 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 21:07:39 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 21:07:39 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-15 21:07:52 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-15 21:07:52 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-15 21:11:01 [INFO]: Shutting down Flowise...
+2023-12-15 21:19:10 [INFO]: Starting Flowise...
+2023-12-15 21:19:11 [INFO]: ⚡️ [server]: Flowise Server is listening at 3000
+2023-12-15 21:19:11 [INFO]: 📦 [server]: Data Source has been initialized!
+2023-12-15 21:28:10 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 22:41:57 [INFO]: ⬆️ POST /api/v1/node-config
+2023-12-15 22:42:43 [INFO]: ⬆️ POST /api/v1/chatflows
+2023-12-15 22:44:53 [INFO]: 🖊 PUT /api/v1/chatflows/638251ad-75f1-45d9-a851-15a3ca9a4639
+2023-12-15 22:44:59 [INFO]: ⬆️ POST /api/v1/internal-prediction/638251ad-75f1-45d9-a851-15a3ca9a4639
+2023-12-15 22:44:59 [INFO]: [server]: Chatflow 638251ad-75f1-45d9-a851-15a3ca9a4639 added into ChatflowPool
+2023-12-15 22:45:28 [INFO]: ⬆️ POST /api/v1/internal-prediction/638251ad-75f1-45d9-a851-15a3ca9a4639
+2023-12-15 22:46:24 [INFO]: ❌ DELETE /api/v1/chatflows/638251ad-75f1-45d9-a851-15a3ca9a4639
+2023-12-16 00:09:36 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 00:09:37 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 00:11:07 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:19:26 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=06594b17-5d00-443e-b9b8-cfa64adc5c08&chatType=INTERNAL
+2023-12-16 18:19:34 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:19:35 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 18:30:03 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:30:03 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 18:30:34 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:30:34 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 18:30:39 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:30:40 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 18:30:54 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:31:53 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:33:45 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:51:14 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:51:14 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 18:59:11 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=aa03bdc3-e93b-41f9-8290-1980e87becb4&chatType=INTERNAL
+2023-12-16 18:59:15 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 18:59:16 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 18:59:44 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:08:24 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:09:30 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=7efc217d-9f46-440e-9bd3-8caf34d0d3f7&chatType=INTERNAL
+2023-12-16 19:09:51 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:11:38 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:16:57 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:16:57 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 19:17:01 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=7efc217d-9f46-440e-9bd3-8caf34d0d3f7&chatType=INTERNAL
+2023-12-16 19:17:06 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:17:07 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 19:17:46 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:18:36 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=be105d86-4882-4ddf-b916-d98f93e4f710&chatType=INTERNAL
+2023-12-16 19:18:42 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:18:58 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:20:22 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=dc30b0c7-edf6-4339-9097-392c1f709e5f&chatType=INTERNAL
+2023-12-16 19:20:27 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:20:51 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:21:40 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:24:06 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:24:06 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 19:24:09 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=fd53b3e8-59a5-4edf-8bdd-0d6f292b9ef8&chatType=INTERNAL
+2023-12-16 19:24:14 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:24:15 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 19:24:43 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:25:21 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:25:46 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:26:19 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:28:05 [INFO]: ❌ DELETE /api/v1/chatmessage/7adc3fa4-9860-41a9-a5a3-7303918c6b8c?chatId=20e61144-3c0c-446f-be63-ee696c118197&chatType=INTERNAL
+2023-12-16 19:28:06 [INFO]: 🖊 PUT /api/v1/chatflows/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:28:06 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c updated inSync=false in ChatflowPool
+2023-12-16 19:28:10 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:28:11 [INFO]: [server]: Chatflow 7adc3fa4-9860-41a9-a5a3-7303918c6b8c added into ChatflowPool
+2023-12-16 19:28:35 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 19:29:37 [INFO]: ⬆️ POST /api/v1/internal-prediction/7adc3fa4-9860-41a9-a5a3-7303918c6b8c
+2023-12-16 22:52:35 [INFO]: Shutting down Flowise...
